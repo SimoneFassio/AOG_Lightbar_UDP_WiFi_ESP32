@@ -32,7 +32,7 @@ by hagre
 #define MAX_WAIT_TIME_UDP 2000  //ms timeout for waiting on valide UDP msg
 
 //LED Settings
-#define NUMPIXELS   35                 // Odd number dont use =0 
+#define NUMPIXELS   71                 // Odd number dont use =0 
 #define Neopixel_Pin 13                //GPIO16 Set this to the pin number you are using for the Neopixel strip controll line
 #define cmPerLightbarPixel  16          // Must be a multiple of cmPerDistInt
 #define cmPerDistInt  2                // The number of centimeters represented by a change in 1 of the AOG cross track error byte
